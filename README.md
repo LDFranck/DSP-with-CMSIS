@@ -9,5 +9,5 @@ Como configurar:
 >> Renomear o filtro como "filter".
 >
 >> Para Filtros Passa-Alta, substituir o conteúdo do main.c com o conteúdo do main_FPA.c
-
-> Alterar os arquivos "filter.h" e "filter.c" com as configurações geradas pelo site.
+>
+>> Alterar os arquivos "filter.h" e "filter.c" com as configurações geradas pelo site.
